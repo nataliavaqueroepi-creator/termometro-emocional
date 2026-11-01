@@ -1,0 +1,6 @@
+{
+  "name": "Brújula Emocional +45",
+  "description": "Test interactivo para evaluar y gestionar las emociones tras un despido a partir de los 45 años.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
